@@ -17,9 +17,9 @@
   font-family: fantasy, cursive;
 }
 @media (max-width:768px) {
-.matrix-img { 
-text-align: center;
-}
+  .matrix-img { 
+    text-align: center;
+  }
 }
 .page-element {
   display: block;
